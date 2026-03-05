@@ -15,7 +15,7 @@ Muitas padarias de bairro enfrentam dificuldades em calcular o custo real de pro
 
 ## 🚀 Como acessar a ferramenta
 O projeto está disponível online e pode ser acessado por qualquer dispositivo (computador ou celular) através do link abaixo:
-👉 **[COLE AQUI O LINK DO SEU APP NO STREAMLIT]**
+👉 **(https://calculadora-padaria-hcnygvyesklrxhb36u5pzj.streamlit.app/)**
 
 ## 📝 Como usar
 1. Insira o **nome do ingrediente**.
