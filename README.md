@@ -26,6 +26,6 @@ O projeto está disponível online e pode ser acessado por qualquer dispositivo 
 6. Repita para todos os itens e ajuste a barra de **Margem de Lucro** para ver o preço final.
 
 ---
-**Projeto desenvolvido por:** [SEU NOME COMPLETO]  
-**Curso:** [NOME DO SEU CURSO - EX: ANÁLISE E DESENVOLVIMENTO DE SISTEMAS]  
-**Instituição:** [NOME DA SUA FACULDADE]
+**Projeto desenvolvido por:** Edinan Soares  
+**Curso:** ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+**Instituição:** Estácio
